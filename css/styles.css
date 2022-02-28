@@ -1,0 +1,22 @@
+h1.intro {
+
+}
+
+h2.intro {
+  
+}
+
+img.intro{
+
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
